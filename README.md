@@ -33,4 +33,4 @@ To list all the urls/paths available execute `rails routes`.
 ## Learn More
 
 To learn Python, check out the [Rails documentation](https://rubyonrails.org/). <br>
-To learn RSpec, check out the [django documentation](https://rspec.info/). <br>
+To learn RSpec, check out the [RSPEC documentation](https://rspec.info/). <br>
